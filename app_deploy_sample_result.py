@@ -9,7 +9,7 @@ st.set_page_config(layout="wide")
 with st.sidebar:
     input_password = st.text_input(label='password', type='password')
 
-if input_password in ['rennlabs123***','']:
+if input_password in ['rennlabs123***']:
     json_data = [json.load(open(f'sample_result_claude_agent_2.1/{x}', 'r')) for x in os.listdir('sample_result_claude_agent_2.1')]
     idx = st.number_input('Sample number', 1, len(json_data)) - 1
     col1, col2 = st.columns([1,2])
