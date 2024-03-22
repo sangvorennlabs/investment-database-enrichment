@@ -1,0 +1,32 @@
+{
+    "firm_name": "Crow Holdings Capital",
+    "website_url": "http://www.crowholdings.com",
+    "description": "Crow Holdings Capital is a U.S. SEC-registered investment adviser and the investment management company of Crow Holdings, a leading real estate investment and development firm. It acquires and manages real estate assets on behalf of investors through funds like Crow Holdings Realty Partners X, L.P.",
+    "linkedin_url": "https://www.linkedin.com/company/crow-holdings-l.l.c.",
+    "facebook_url": "",
+    "twitter_url": "",
+    "firm_type": [
+        "Private Equity",
+        "Real Estate Investment Trust",
+        "Asset Management"
+    ],
+    "strategic_sectors": [
+        "Real Estate"
+    ],
+    "investment_stages": [
+        "Growth Stage",
+        "Late Stage"
+    ],
+    "investment_strategies": [
+        "Commercial Real Estate",
+        "Real Estate Investment Trusts"
+    ],
+    "geographic_preferences": [
+        "United States"
+    ],
+    "city": "Dallas",
+    "state": "Texas",
+    "country": "United States",
+    "investor_type": "Institutional Investor",
+    "asset_under_management_value": "$3.1 billion"
+}

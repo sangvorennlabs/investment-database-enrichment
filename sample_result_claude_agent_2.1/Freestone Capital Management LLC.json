@@ -1,0 +1,29 @@
+{
+    "firm_name": "Freestone Capital Management LLC",
+    "website_url": "http://www.freestonecapital.com",
+    "description": "Freestone Capital Management is an independent, fee-only wealth advisory and asset management firm founded in 1999. The firm is 100% employee-owned and has grown from $250 million to $9.4 billion in assets under management. Freestone's only commitment is to client success, not those of a corporate parent company.",
+    "linkedin_url": "https://www.linkedin.com/company/freestone-capital-management/",
+    "facebook_url": "",
+    "twitter_url": "",
+    "firm_type": [
+        "Asset Management",
+        "Wealth Management",
+        "Investment Advisory"
+    ],
+    "strategic_sectors": [
+        "Financial Services"
+    ],
+    "investment_stages": [],
+    "investment_strategies": [
+        "Fixed Income"
+    ],
+    "geographic_preferences": [
+        "United States",
+        "North America"
+    ],
+    "city": "Seattle",
+    "state": "Washington",
+    "country": "United States",
+    "investor_type": "Institutional Investor",
+    "asset_under_management_value": "$9.4 billion"
+}

@@ -1,0 +1,31 @@
+{
+    "firm_name": "HQ Capital Private Equity LLC",
+    "website_url": "http://hqcapital.com/en/",
+    "description": "HQ Capital Private Equity LLC is a private equity firm that invests in private equity funds, growth and buyout segments, specializing in secondary, co-investment, and direct investments. The firm has been operating for over 30 years and has raised its largest fund to date, the Auda Capital VIII fund, with $750 million in commitments.",
+    "linkedin_url": "https://www.linkedin.com/company/audasupport",
+    "facebook_url": "",
+    "twitter_url": "",
+    "firm_type": [
+        "Private Equity",
+        "Asset Management"
+    ],
+    "strategic_sectors": [
+        "Financial Services"
+    ],
+    "investment_stages": [
+        "Growth Stage",
+        "Late Stage"
+    ],
+    "investment_strategies": [
+        "Private Equity",
+        "Co-Investment"
+    ],
+    "geographic_preferences": [
+        "Global"
+    ],
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "investor_type": "Institutional Investor",
+    "asset_under_management_value": ""
+}

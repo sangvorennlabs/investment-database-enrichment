@@ -1,0 +1,24 @@
+{
+    "firm_name": "Vogel Consulting Group",
+    "website_url": "http://vogelcg.com/",
+    "description": "Founded in 1993, Vogel Consulting is an independent, multi-family office serving affluent individuals and private families. The firm offers a full suite of family office services including financial analysis, tax and estate planning, and investment advice. Vogel advises on nearly $3 billion in assets.",
+    "linkedin_url": "https://www.linkedin.com/company/vogel-consulting-llc",
+    "facebook_url": "https://www.facebook.com/pages/Vogel-Consulting/246642825891743/",
+    "twitter_url": "https://twitter.com/vogelcg",
+    "firm_type": [
+        "Wealth Management",
+        "Investment Advisory",
+        "Family Office"
+    ],
+    "strategic_sectors": [],
+    "investment_stages": [],
+    "investment_strategies": [],
+    "geographic_preferences": [
+        "United States"
+    ],
+    "city": "Brookfield",
+    "state": "WI",
+    "country": "United States",
+    "investor_type": "Institutional Investor",
+    "asset_under_management_value": "$3 billion"
+}

@@ -1,0 +1,25 @@
+{
+    "firm_name": "Berwind Corporation",
+    "website_url": "https://www.berwind.com",
+    "description": "Berwind is a fifth-generation, family-owned investment management company with a distinguished history and a bias towards action. Established in 1886, Berwind represents several billion dollars in enterprise value, with six operating companies serving industries including pharmaceutical, specialty chemicals, and manufacturing.",
+    "linkedin_url": "https://www.linkedin.com/company/berwind-corporation",
+    "facebook_url": "",
+    "twitter_url": "",
+    "firm_type": [
+        "Investment Management",
+        "Family Office"
+    ],
+    "strategic_sectors": [
+        "Pharmaceuticals",
+        "Chemicals",
+        "Manufacturing"
+    ],
+    "investment_stages": [],
+    "investment_strategies": [],
+    "geographic_preferences": [],
+    "city": "",
+    "state": "",
+    "country": "",
+    "investor_type": "Family Office",
+    "asset_under_management_value": ""
+}

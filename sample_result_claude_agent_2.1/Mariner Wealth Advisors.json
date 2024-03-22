@@ -1,0 +1,26 @@
+{
+    "firm_name": "Mariner Wealth Advisors",
+    "website_url": "http://www.marinerwealthadvisors.com",
+    "description": "Mariner Wealth Advisors is a leading national wealth advisory firm that offers 360\u00b0 wealth management advice designed specifically for individual and business clients across the country. Their in-house teams provide services such as financial planning, tax strategies, estate planning, insurance solutions, and investment management.",
+    "linkedin_url": "https://www.linkedin.com/company/mariner-wealth-advisors/",
+    "facebook_url": "https://www.facebook.com/MarinerWealthAdvisors/",
+    "twitter_url": "https://twitter.com/MarinerWealth",
+    "firm_type": [
+        "Wealth Management",
+        "Investment Advisory"
+    ],
+    "strategic_sectors": [
+        "Financial Services"
+    ],
+    "investment_stages": [],
+    "investment_strategies": [],
+    "geographic_preferences": [
+        "Domestic",
+        "United States"
+    ],
+    "city": "Overland Park",
+    "state": "Kansas",
+    "country": "United States",
+    "investor_type": "Institutional Investor",
+    "asset_under_management_value": "No information found on asset under management value."
+}

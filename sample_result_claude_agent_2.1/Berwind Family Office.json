@@ -1,0 +1,29 @@
+{
+    "firm_name": "Berwind Family Office",
+    "website_url": "http://www.berwind.com",
+    "description": "Berwind is a family-owned investment management company with a long history of financial stability and consistent growth. It represents several billion dollars in enterprise value and its operating companies serve industries like pharmaceutical, specialty chemical, medical technology, automotive, consumer products, life sciences, energy, and general industrial.",
+    "linkedin_url": "https://www.linkedin.com/company/altallc",
+    "facebook_url": "",
+    "twitter_url": "",
+    "firm_type": [
+        "Family Office",
+        "Investment Management"
+    ],
+    "strategic_sectors": [
+        "Pharmaceuticals",
+        "Chemicals",
+        "Healthcare",
+        "Automotive",
+        "Consumer Goods",
+        "Energy",
+        "Industrials"
+    ],
+    "investment_stages": [],
+    "investment_strategies": [],
+    "geographic_preferences": [],
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "country": "United States",
+    "investor_type": "Family Office",
+    "asset_under_management_value": ""
+}

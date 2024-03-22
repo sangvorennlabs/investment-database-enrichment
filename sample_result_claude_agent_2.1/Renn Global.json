@@ -1,0 +1,35 @@
+{
+    "firm_name": "Renn Global",
+    "website_url": "https://www.rennglobal.com/",
+    "description": "Renn Global is an alternative asset management firm focused on the technology venture ecosystem. Renn's innovative model is driven by committed private, closed-end funds in conjunction with a proprietary syndication technology platform for accredited investors and qualified purchasers.",
+    "linkedin_url": "https://www.linkedin.com/company/rennglobal",
+    "facebook_url": "https://www.facebook.com/RennGlobal/",
+    "twitter_url": null,
+    "firm_type": [
+        "Asset Management",
+        "Venture Capital"
+    ],
+    "strategic_sectors": [
+        "Financial Services",
+        "Information Technology Services",
+        "Real Estate"
+    ],
+    "investment_stages": [
+        "Seed",
+        "Series A",
+        "Series B",
+        "Series C",
+        "Growth Stage"
+    ],
+    "investment_strategies": [
+        "Private Equity"
+    ],
+    "geographic_preferences": [
+        "Global"
+    ],
+    "city": "Boca Raton",
+    "state": "Florida",
+    "country": "United States",
+    "investor_type": "Accredited Investor",
+    "asset_under_management_value": null
+}
