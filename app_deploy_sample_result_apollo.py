@@ -18,11 +18,17 @@ if input_password in ['rennlabs123***']:
     idx = st.number_input('Sample number', 1, len(original_json)) - 1
     col1, col2, col3 = st.columns([2,2,1])
     with col1:
+        if navigation == "Contact":
+            st.markdown(f"""<div style="height: 200px;"><img src="{original_json[idx]['avatar_url']}" alt="No avatar" height="200"></div>""", unsafe_allow_html=True)
         st.write('## Original Json')
-        st.json(original_json[idx])
+        original_json_dict = {key: original_json[idx][key] for key in ['first_name', 'last_name', 'email', 'phone_number', 'city', 'state', 'country', 'linkedin_url', 'facebook_url', 'twitter_url', 'investor_type', 'check_size_max', 'check_size_min', 'investment_stages', 'investment_strategies', 'strategic_sectors', 'geographic_preferences', 'work_history']}
+        st.json(original_json_dict)
     with col2:
+        if navigation == "Contact":
+            st.markdown(f"""<div style="height: 200px;"><img src="{apollo_enrich_json[idx]['avatar_url']}" alt="No avatar" height="200"></div>""", unsafe_allow_html=True)
         st.write('## Appolo-enriched Json')
-        st.json(apollo_enrich_json[idx])
+        apollo_enrich_json_dict = {key: apollo_enrich_json[idx][key] for key in ['first_name', 'last_name', 'email', 'phone_number', 'city', 'state', 'country', 'linkedin_url', 'facebook_url', 'twitter_url', 'investor_type', 'check_size_max', 'check_size_min', 'investment_stages', 'investment_strategies', 'strategic_sectors', 'geographic_preferences', 'work_history']}
+        st.json(apollo_enrich_json_dict)
     with col3:
         enriched_field = [key1 for ((key1, value1), (key1, value2)) in zip(original_json[idx].items(), apollo_enrich_json[idx].items()) if value1==None and value2]
         different_field = {key1:[value1,value2] for ((key1, value1), (key1, value2)) in zip(original_json[idx].items(), apollo_enrich_json[idx].items()) if value1!=value2 and value1 and value2}
