@@ -8,10 +8,10 @@ st.set_page_config(layout="wide")
 
 with st.sidebar:
     input_password = st.text_input(label='password', type='password')
-    if input_password in ['rennlabs123***', '']:
+    if input_password in ['rennlabs123***']:
         navigation = st.radio("Navigation", ["Contact", "Firm"])
 
-if input_password in ['rennlabs123***', '']:
+if input_password in ['rennlabs123***']:
     original_json = json.load(open('sample_apollo/contact/2024-04-05T17_13_31.679141-contact-original.json')) if navigation=="Contact" else json.load(open('sample_apollo/firm/2024-04-05T17_13_31.679141-firm-original.json'))
     apollo_enrich_json = json.load(open('sample_apollo/contact/2024-04-05T17_13_31.679141-contact-enriched.json')) if navigation=="Contact" else json.load(open('sample_apollo/firm/2024-04-05T17_13_31.679141-firm-enriched.json'))
     st.write('# Contact comparision') if navigation=="Contact" else st.write('# Firm comparision')
