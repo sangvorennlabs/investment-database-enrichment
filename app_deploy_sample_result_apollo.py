@@ -14,13 +14,25 @@ ai_enrich_json = json.load(open('sample_apollo/firm/firms-ai-enriched.json'))
 
 ai_enrich_json_gpt_35 = json.load(open('sample_apollo/gpt3.5 vs gpt4/firms-ai-enriched-gpt3.5-40-records.json'))
 ai_enrich_json_gpt_4 = json.load(open('sample_apollo/gpt3.5 vs gpt4/firms-ai-enriched-gpt4-40-records.json'))
+ai_enrich_json_gemini_pro_15_latest = json.load(open('sample_apollo/gpt3.5 vs gpt4/firms-ai-enriched-gemini-1.5-pro-latest-40-records.json'))
 with st.sidebar:
     input_password = st.text_input(label='password', type='password')
     if input_password in ['rennlabs123***']:
-        navigation = st.radio("Navigation", ["Contact", "Firm enriched with Apollo", "Firm enriched with AI", "Comparision GPT-3.5 VS GPT-4"])
+        navigation = st.radio("Navigation", ["Contact", "Firm enriched with Apollo", "Firm enriched with AI", "Comparision GPT-3.5 VS GPT-4", "Comparision Gemini-1.5-pro-latest VS GPT-4"])
 
 if input_password in ['rennlabs123***']:
-    if navigation == "Comparision GPT-3.5 VS GPT-4":
+    if navigation == "Comparision Gemini-1.5-pro-latest VS GPT-4":
+        st.write("Gemini-1.5-pro-latest VS GPT-4 on data enrichment")
+        idx = st.number_input('Sample number', 1, len(ai_enrich_json_gemini_pro_15_latest)) - 1
+        col1, col2 = st.columns([1,1])
+        keys_to_display = ['name', 'website_url', 'firm_type', 'strategic_sectors', 'investment_stages', 'investment_strategies', 'geographic_preferences', 'investor_type', 'investment_approach', 'asset_under_management_value', 'check_size_typical', 'notable_investments', 'investment_highlights', ]
+        with col1:
+            st.write('## Gemini-1.5-pro-latest with new prompting')
+            st.json({key:ai_enrich_json_gemini_pro_15_latest[idx].get(key) for key in keys_to_display})
+        with col2:
+            st.write('## GPT 4 with new prompting')
+            st.json({key:ai_enrich_json_gpt_4[idx].get(key) for key in keys_to_display})
+    elif navigation == "Comparision GPT-3.5 VS GPT-4":
         st.write("GPT-3.5 VS GPT-4 on data enrichment")
         idx = st.number_input('Sample number', 1, len(ai_enrich_json_gpt_35)) - 1
         col1, col2 = st.columns([1,1])

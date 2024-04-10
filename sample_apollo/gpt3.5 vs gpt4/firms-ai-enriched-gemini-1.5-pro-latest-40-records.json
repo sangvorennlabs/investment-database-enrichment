@@ -1,0 +1,1184 @@
+[
+    {
+        "firm_type": [
+            "Venture Capital"
+        ],
+        "strategic_sectors": [
+            "Software Development",
+            "Information Technology Services",
+            "Artificial Intelligence",
+            "Biotechnology",
+            "Fintech",
+            "E-commerce",
+            "Edtech",
+            "Healthtech",
+            "CleanTech"
+        ],
+        "investment_stages": [
+            "Seed",
+            "Series A",
+            "Series B"
+        ],
+        "investment_strategies": [
+            "Growth Equity"
+        ],
+        "geographic_preferences": [
+            "United States"
+        ],
+        "investor_type": "Institutional Investor",
+        "investment_approach": "Direct Investor",
+        "asset_under_management_value": "< $150 million",
+        "check_size_typical": "$250,000 to $10 million",
+        "notable_investments": "ClassPass, Allurion Technologies, and SchoolMint",
+        "investment_highlights": "16 diversity investments, with notable exits including ClassPass, Allurion Technologies, and SchoolMint",
+        "name": "Romulus Capital",
+        "website_url": "http://www.romuluscap.com"
+    },
+    {
+        "firm_type": [
+            "Venture Capital"
+        ],
+        "strategic_sectors": [
+            "Real Estate",
+            "Financial Services",
+            "Software Development",
+            "Information Technology Services",
+            "Fintech",
+            "Big Data",
+            "Digital Media",
+            "Business Services"
+        ],
+        "investment_stages": [
+            "Early Stage",
+            "Mid Stage"
+        ],
+        "investment_strategies": [],
+        "geographic_preferences": [
+            "Global",
+            "North America",
+            "Europe",
+            "Australia",
+            "Asia-Pacific",
+            "Latin America",
+            "Israel"
+        ],
+        "investor_type": "Institutional Investor",
+        "investment_approach": "Direct Investor",
+        "asset_under_management_value": null,
+        "check_size_typical": "$1,000,000 to $5,000,000",
+        "notable_investments": "DocuSign, Inc., RealSage, Plus Platform",
+        "investment_highlights": "208 investments total, 27 diversity investments, operates the award-winning REACH program",
+        "name": "Second Century Ventures",
+        "website_url": "http://www.scv.vc"
+    },
+    {
+        "firm_type": [
+            "Insurance Company Investment Division",
+            "Investment Advisory",
+            "Venture Capital"
+        ],
+        "strategic_sectors": [
+            "Financial Services",
+            "Insurance",
+            "Healthcare",
+            "Real Estate"
+        ],
+        "investment_stages": [
+            "Early Stage",
+            "Seed",
+            "Series A"
+        ],
+        "investment_strategies": [
+            "Direct Investor"
+        ],
+        "geographic_preferences": [
+            "North America",
+            "United States"
+        ],
+        "investor_type": "Institutional Investor",
+        "investment_approach": "Direct Investor",
+        "asset_under_management_value": null,
+        "check_size_typical": null,
+        "notable_investments": "Harness Wealth, Honeycomb Insurance, VaxAtlas",
+        "investment_highlights": "NFP Ventures' investment in Harness Wealth aims to support next-generation wealth builders seeking financial, estate, and tax advice. The investment in Honeycomb Insurance focuses on a digital insurance platform for multi-family property insurance. VaxAtlas, a vaccine management platform, received seed investment to enhance digital solutions for managing vaccination information.",
+        "name": "NFP Corp",
+        "website_url": "http://www.nfpvf.com"
+    },
+    {
+        "firm_type": [
+            "Venture Capital"
+        ],
+        "strategic_sectors": [
+            "Fintech",
+            "Internet",
+            "Food and Beverage",
+            "E-commerce",
+            "Biotechnology"
+        ],
+        "investment_stages": [
+            "Pre-Seed",
+            "Seed",
+            "Series A",
+            "Series B",
+            "Series C"
+        ],
+        "investment_strategies": [],
+        "geographic_preferences": [
+            "Global",
+            "North America"
+        ],
+        "investor_type": "Venture Capital",
+        "investment_approach": "Direct Investor",
+        "asset_under_management_value": null,
+        "check_size_typical": "$250,000 to $5 million",
+        "notable_investments": "Ridepanda, Hemster, Postmates, Clearbit, Forge, Eco, Fantuan, Republic, ZBiotics",
+        "investment_highlights": "10 diversity investments, 11 exits including Postmates, Clearbit, and Forge",
+        "name": "Oyster Ventures",
+        "website_url": "http://www.oyster.vc"
+    },
+    {
+        "firm_type": [
+            "Venture Capital"
+        ],
+        "strategic_sectors": [
+            "Software & Technology Services",
+            "Consumer",
+            "Healthcare"
+        ],
+        "investment_stages": [
+            "Early Stage"
+        ],
+        "investment_strategies": [],
+        "geographic_preferences": [
+            "North America",
+            "United States"
+        ],
+        "investor_type": "Institutional Investor",
+        "investment_approach": "Direct Investor",
+        "asset_under_management_value": "$1.4 billion",
+        "check_size_typical": "$250 million",
+        "notable_investments": "Salvo Health, BetterUp, Doximity, Front, LaunchDarkly, Livongo, Rippling, Remitly, and Talkdesk",
+        "investment_highlights": "Notable exits include Zoox, Remitly, and Shift.",
+        "name": "Threshold Ventures",
+        "website_url": "http://www.threshold.vc"
+    },
+    {
+        "firm_type": [
+            "Venture Capital",
+            "Family Office"
+        ],
+        "strategic_sectors": [
+            "Cybersecurity",
+            "eSports",
+            "Data Analytics",
+            "Software Development",
+            "Emerging Hardware Platforms",
+            "Marketplaces",
+            "Blockchain"
+        ],
+        "investment_stages": [
+            "Seed",
+            "Series A"
+        ],
+        "investment_strategies": [],
+        "geographic_preferences": [
+            "Global",
+            "Asia",
+            "Israel",
+            "United States"
+        ],
+        "investor_type": "Institutional Investor",
+        "investment_approach": "Direct Investor",
+        "asset_under_management_value": "$40.5 million",
+        "check_size_typical": null,
+        "notable_investments": "Tensorplex Labs, Snap, DraftKings, Integral Ad Science, AngelList, Flume Health, Electives, Hedera Hashgraph, Ontology, Coda, FileCoin, CoinList, Circle, Brave",
+        "investment_highlights": "Successfully raised its last-ever fund, totaling $405 million, which the firm considers to be its \"last fund, best fund\".",
+        "name": "Accomplice VC",
+        "website_url": "http://www.accomplice.co"
+    },
+    {
+        "firm_type": [
+            "Venture Capital",
+            "Private Equity"
+        ],
+        "strategic_sectors": [
+            "Software Development",
+            "Information Technology Services"
+        ],
+        "investment_stages": [
+            "Growth Stage"
+        ],
+        "investment_strategies": [
+            "Growth Equity"
+        ],
+        "geographic_preferences": [
+            "Global"
+        ],
+        "investor_type": "Institutional Investor",
+        "investment_approach": "Direct Investor",
+        "asset_under_management_value": "$13 billion",
+        "check_size_typical": "Not explicitly stated",
+        "notable_investments": "Lever, SecureAuth, Apttus, Chrome River Technologies, ELMO Cloud HR & Payroll, TheraWe",
+        "investment_highlights": "Deployed capital across 11 new investments in the first half of 2023, including the take-private acquisition of Elmo, a human capital management software company. Raised significant funding for its sixth flagship fund. Notable exits include SecureAuth, Apttus, and Chrome River Technologies.",
+        "name": "K1 Investment Management",
+        "website_url": "http://www.k1.com"
+    },
+    {
+        "firm_type": [
+            "Private Equity"
+        ],
+        "strategic_sectors": [
+            "Industrial Technology",
+            "Business Services",
+            "Consumer Goods",
+            "Healthcare",
+            "Consumer Health & Wellness"
+        ],
+        "investment_stages": [
+            "Growth Stage"
+        ],
+        "investment_strategies": [
+            "Minority Growth Capital",
+            "Majority Recapitalization"
+        ],
+        "geographic_preferences": [
+            "Domestic"
+        ],
+        "investor_type": "Private Investment Company",
+        "investment_approach": "Direct Investor",
+        "asset_under_management_value": null,
+        "check_size_typical": "$5 million to $30 million",
+        "notable_investments": "Fire Door Solutions, ShipSigma, Medterra, Emsar, East West Manufacturing, Primetime Healthcare Compliance Services, AC Label, Intechra, M3 Technologies, BJG Electronics, Cascade Drilling, Boylan Bottling Co, Inc., Golf, Miura, Ryze",
+        "investment_highlights": "Investments in various companies across industries like business services, consumer health & wellness, and industrial technology, showcasing a diverse portfolio in lower-middle market companies.",
+        "name": "Emigrant Capital",
+        "website_url": "http://www.emigrantcapital.com"
+    },
+    {
+        "firm_type": [
+            "Venture Capital"
+        ],
+        "strategic_sectors": [
+            "Software Development",
+            "Artificial Intelligence",
+            "Biotechnology",
+            "Virtual Reality",
+            "Augmented Reality",
+            "Social Media Platforms"
+        ],
+        "investment_stages": [
+            "Seed",
+            "Series A"
+        ],
+        "investment_strategies": [],
+        "geographic_preferences": [
+            "North America",
+            "United States"
+        ],
+        "investor_type": "Venture Capital",
+        "investment_approach": "Direct Investor",
+        "asset_under_management_value": null,
+        "check_size_typical": null,
+        "notable_investments": "222, FlexWash, Nanome, Creatorland, ENTR, Roopairs Technologies, Inc., OneText, Sant\u00c3\u00a9",
+        "investment_highlights": "222 raised $2.5 million in seed funding and launched an app. Platform Science, a company with USC and SDSU alumni in leadership, raised $125 million in growth capital.",
+        "name": "Crescent Fund",
+        "website_url": "http://www.crescentfund.vc"
+    },
+    {
+        "firm_type": [
+            "Wealth Management",
+            "Investment Advisory"
+        ],
+        "strategic_sectors": [
+            "Financial Services"
+        ],
+        "investment_stages": [
+            "Growth Stage",
+            "Late Stage"
+        ],
+        "investment_strategies": [
+            "Fixed Income"
+        ],
+        "geographic_preferences": [
+            "Domestic",
+            "North America",
+            "United States"
+        ],
+        "investor_type": "Accredited Investor",
+        "investment_approach": "Capital Allocator",
+        "asset_under_management_value": "$2.7 billion",
+        "check_size_typical": "$549,050",
+        "notable_investments": "Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF",
+        "investment_highlights": "Beaumont Financial Partners manages $2.7 billion and provides investment advisory services for 1,558 clients. The firm has a licensed staff of 13 advisors and a client-to-advisor ratio of 1:120. Established in 1999, Beaumont Financial Partners specializes in wealth management for high net worth individuals.",
+        "name": "Beaumont Financial Partners",
+        "website_url": "http://www.bfpartners.com"
+    },
+    {
+        "firm_type": [
+            "Wealth Management",
+            "Family Office"
+        ],
+        "strategic_sectors": [],
+        "investment_stages": [],
+        "investment_strategies": [],
+        "geographic_preferences": [
+            "Global"
+        ],
+        "investor_type": "Institutional Investor",
+        "investment_approach": "Capital Allocator",
+        "asset_under_management_value": null,
+        "check_size_typical": null,
+        "notable_investments": null,
+        "investment_highlights": null,
+        "name": "Nerine Fiduciaries",
+        "website_url": "http://www.nerine.com"
+    },
+    {
+        "firm_type": [
+            "Venture Capital",
+            "Hedge Fund",
+            "Asset Management"
+        ],
+        "strategic_sectors": [
+            "Blockchain",
+            "Financial Services",
+            "Fintech"
+        ],
+        "investment_stages": [
+            "Early-Stage Token Investments",
+            "Venture"
+        ],
+        "investment_strategies": [
+            "Fixed Income"
+        ],
+        "geographic_preferences": [
+            "Global",
+            "United States"
+        ],
+        "investor_type": "Institutional Investor",
+        "investment_approach": "Direct Investor",
+        "asset_under_management_value": "$5.8 billion",
+        "check_size_typical": "hundreds of millions range",
+        "notable_investments": "Bakkt, Blockfolio, doc.ai",
+        "investment_highlights": "Pantera Capital has led approximately half of its 210 investments and has a strong reputation for spotting market opportunities in the blockchain ecosystem. They recently raised $1.3 billion for its Blockchain Fund in 2023, demonstrating its continued success and ability to attract substantial investment capital.",
+        "name": "Pantera Capital",
+        "website_url": "http://www.panteracapital.com"
+    },
+    {
+        "firm_type": [
+            "Asset Management",
+            "Mutual Fund Company"
+        ],
+        "strategic_sectors": [
+            "Technology",
+            "Healthcare",
+            "Real Estate",
+            "Financial Services",
+            "Consumer Goods"
+        ],
+        "investment_stages": [
+            "Growth Stage"
+        ],
+        "investment_strategies": [
+            "Growth Equity"
+        ],
+        "geographic_preferences": [
+            "Domestic",
+            "Global",
+            "Emerging Markets"
+        ],
+        "investor_type": [
+            "Institutional Investor",
+            "Accredited Investor"
+        ],
+        "investment_approach": [
+            "Direct Investor"
+        ],
+        "asset_under_management_value": null,
+        "check_size_typical": null,
+        "notable_investments": "Baron Partners Fund, Baron Focused Growth Fund, Baron Fifth Avenue Fund, Baron Opportunity Fund, Baron Technology Fund, Baron Global Advantage Fund, Baron Emerging Markets Fund, Baron Real Estate Income Fund, Baron Durable Advantage Fund, Baron WealthBuilder Fund, Baron Health Care Fund, Baron Small Cap Fund, Baron Discovery Fund",
+        "investment_highlights": "Portfolio managers Ron Baron and Michael Baron beating the Nasdaq 100 over 5, 10, and 15 years, Above Average Parent rating by Morningstar",
+        "name": "Baron Capital Management, LLC.",
+        "website_url": "http://www.baroncapital.com"
+    },
+    {
+        "firm_type": [
+            "Foundation",
+            "Endowment Fund"
+        ],
+        "strategic_sectors": [
+            "Renewable Energy Technologies",
+            "Energy Efficiency",
+            "Low Carbon Fuels",
+            "Environmental Services"
+        ],
+        "investment_stages": [
+            "Growth Stage",
+            "Late Stage"
+        ],
+        "investment_strategies": [
+            "Impact investing",
+            "Sustainable real assets"
+        ],
+        "geographic_preferences": [
+            "Global"
+        ],
+        "investor_type": "Institutional Investor",
+        "investment_approach": "Capital Allocator",
+        "asset_under_management_value": null,
+        "check_size_typical": null,
+        "notable_investments": "Vision Ridge Partners",
+        "investment_highlights": "Committed $284,450,000 to impact investing, achieving a 99% fossil fuel-free portfolio and allocating 15% of its endowment to market-rate impact investments.",
+        "name": "Rockefeller Brothers Fund",
+        "website_url": "http://www.rbf.org"
+    },
+    {
+        "firm_type": [
+            "Investment Advisory",
+            "Asset Management"
+        ],
+        "strategic_sectors": [
+            "Financial Services"
+        ],
+        "investment_stages": [],
+        "investment_strategies": [
+            "Fixed Income"
+        ],
+        "geographic_preferences": [
+            "Domestic",
+            "United States"
+        ],
+        "investor_type": "Retail Investor",
+        "investment_approach": "Capital Allocator",
+        "asset_under_management_value": null,
+        "check_size_typical": null,
+        "notable_investments": "Adams Diversified Equity Fund, Adams Natural Resources Fund",
+        "investment_highlights": null,
+        "name": "Adams Bank & Trust",
+        "website_url": "http://www.abtbank.com"
+    },
+    {
+        "firm_type": [
+            "Real Estate Investment Trust",
+            "Asset Management"
+        ],
+        "strategic_sectors": [
+            "Real Estate"
+        ],
+        "investment_stages": [
+            "Growth Stage"
+        ],
+        "investment_strategies": [
+            "Commercial Real Estate",
+            "Investment Grade Private Credit",
+            "Private Equity"
+        ],
+        "geographic_preferences": [
+            "Global",
+            "United States",
+            "Australia",
+            "Europe"
+        ],
+        "investor_type": "Institutional Investor",
+        "investment_approach": "Direct Investor",
+        "asset_under_management_value": "$9.5 billion",
+        "check_size_typical": null,
+        "notable_investments": "A $1.5 billion portfolio of build-to-rent dwellings in Australia, backed by Dutch pension fund manager PGGM, as well as a $2 billion housing portfolio aspiration within five years in the Australian market.",
+        "investment_highlights": "Earned a 5 Star rating for its performance in the 2023 Global Real Estate Sustainability Benchmark (GRESB)",
+        "name": "Sentinel Real Estate",
+        "website_url": "http://www.sentinelcorp.com"
+    },
+    {
+        "firm_type": [
+            "Wealth Management",
+            "Investment Advisory",
+            "Asset Management"
+        ],
+        "strategic_sectors": [
+            "Financial Services"
+        ],
+        "investment_stages": [],
+        "investment_strategies": [
+            "Investment Management",
+            "Retirement Plan Services",
+            "Trust Administration",
+            "Banking"
+        ],
+        "geographic_preferences": [
+            "United States"
+        ],
+        "investor_type": [
+            "Institutional Investor",
+            "High-net-worth Individuals"
+        ],
+        "investment_approach": [
+            "Direct Investor"
+        ],
+        "asset_under_management_value": "$7.7 Billion (as of December 31, 2023)",
+        "check_size_typical": null,
+        "notable_investments": null,
+        "investment_highlights": "AMG National Trust has a research-driven approach to investment management, combining economic research and market analysis capabilities with the flexibility to customize opportunities based on clients' needs. The firm's merger with Boys, Arnold & Company in 2020 resulted in the formation of AMG National Trust.",
+        "name": "AMG National Trust",
+        "website_url": "http://www.amgnational.com"
+    },
+    {
+        "firm_type": [
+            "Family Office",
+            "Investment Advisory",
+            "Wealth Management"
+        ],
+        "strategic_sectors": [],
+        "investment_stages": [],
+        "investment_strategies": [
+            "Fixed Income",
+            "Private Equity"
+        ],
+        "geographic_preferences": [
+            "Domestic",
+            "North America",
+            "United States"
+        ],
+        "investor_type": "Accredited Investor",
+        "investment_approach": "Direct Investor",
+        "asset_under_management_value": "$821 million",
+        "check_size_typical": "$1,377,910",
+        "notable_investments": "Based on the available data, there is no specific information provided regarding notable investments made by Astraeus Advisers, LLC in terms of portfolio companies, projects, or funds.",
+        "investment_highlights": "Astraeus Advisers, LLC was recently acquired by The Mather Group, a Chicago-based RIA. The acquisition marked The Mather Group's second billion-dollar AUM acquisition within 90 days and resulted in the launch of TMG Family Office. The multifamily office managed over $1 billion in assets prior to the acquisition.",
+        "name": "Astraeus Advisers, LLC",
+        "website_url": "http://www.astraeusadvisers.com"
+    },
+    {
+        "firm_type": [
+            "Asset Management",
+            "Investment Advisory",
+            "Wealth Management"
+        ],
+        "strategic_sectors": [
+            "Financial Services",
+            "Real Estate"
+        ],
+        "investment_stages": [],
+        "investment_strategies": [
+            "Fixed Income",
+            "Factor-Based Investing",
+            "ESG Investing",
+            "Balanced Portfolio",
+            "Defensive Equity",
+            "Endowment Model"
+        ],
+        "geographic_preferences": [
+            "Global",
+            "International",
+            "Domestic"
+        ],
+        "investor_type": "Accredited Investor",
+        "investment_approach": "Capital Allocator",
+        "asset_under_management_value": "$691 billion",
+        "check_size_typical": null,
+        "notable_investments": "Procter Gamble Co, Vanguard Total World Stock Etf, Atlas Capital Resources I CF LP",
+        "investment_highlights": "Focuses on evidence-based, systematic, and transparent investment strategies, aiming to outperform traditional balanced strategies with a significant allocation to the Atlas Global Defensive Equity Strategy. Values transparency and commits to partners and investors throughout the investment process, striving to minimize risks by creating value before requiring capital. Quantitative assessment as of February 2024 favors international stocks, particularly Europe and Japan, over the US market due to more favorable valuation metrics.",
+        "name": "Atlas Capital Advisors",
+        "website_url": "http://www.atlasca.com"
+    },
+    {
+        "firm_type": [
+            "Investment Advisory",
+            "Accounting"
+        ],
+        "strategic_sectors": [
+            "Real Estate",
+            "Construction",
+            "Family Office",
+            "Manufacturing",
+            "Distribution",
+            "Law"
+        ],
+        "investment_stages": [],
+        "investment_strategies": [],
+        "geographic_preferences": [
+            "United States"
+        ],
+        "investor_type": [],
+        "investment_approach": [],
+        "name": "Berdon LLP",
+        "website_url": "http://www.berdonllp.com"
+    },
+    {
+        "firm_type": [
+            "Wealth Management",
+            "Investment Advisory"
+        ],
+        "strategic_sectors": [
+            "Financial Services"
+        ],
+        "investment_stages": [],
+        "investment_strategies": [
+            "Fixed Income",
+            "Private Equity",
+            "Investment Grade",
+            "High Yield",
+            "Floating Rate"
+        ],
+        "geographic_preferences": [
+            "Domestic",
+            "United States"
+        ],
+        "investor_type": "Accredited Investor",
+        "investment_approach": "Capital Allocator",
+        "asset_under_management_value": "$598 million",
+        "check_size_typical": null,
+        "notable_investments": "United Parcel Service",
+        "investment_highlights": "Closed position in First Tr Sr Floating Rate 20 on 8th February 2022, selling 627,797 shares for $6.05 million. Decreased stake in United Parcel Service by approximately 0.1%, leaving the investment value at $161 million and 748,949 shares.",
+        "name": "Biltmore Capital Advisors, LLC",
+        "website_url": "http://www.biltmorecap.com"
+    },
+    {
+        "firm_type": [
+            "Trust Company",
+            "Family Office",
+            "Wealth Management"
+        ],
+        "strategic_sectors": [
+            "Financial Services"
+        ],
+        "investment_stages": [],
+        "investment_strategies": [],
+        "geographic_preferences": [
+            "Domestic",
+            "International",
+            "United States"
+        ],
+        "investor_type": [
+            "Accredited Investor",
+            "High-net-worth Individuals"
+        ],
+        "investment_approach": [
+            "Capital Allocator"
+        ],
+        "asset_under_management_value": null,
+        "check_size_typical": null,
+        "notable_investments": null,
+        "investment_highlights": "Bridgeford Trust Company has been recognized for its achievements in the financial services industry, being named a finalist for various prestigious awards including the 2023 Private Asset Management (PAM) Awards and the WealthManagement.com 8th Annual Industry Awards. Additionally, the company reported a significant pre-tax profit of $61,407,000 in their annual report. These accolades and financial success highlight the firm's strong performance and reputation within the ultra-high net worth and family office space.",
+        "name": "Bridgeford Trust Company",
+        "website_url": "http://www.bridgefordtrust.com"
+    },
+    {
+        "firm_type": [
+            "Wealth Management",
+            "Investment Advisory"
+        ],
+        "strategic_sectors": [
+            "Financial Services"
+        ],
+        "investment_stages": [],
+        "investment_strategies": [
+            "Fixed Income"
+        ],
+        "geographic_preferences": [
+            "Domestic"
+        ],
+        "investor_type": [
+            "Retail Investor",
+            "Accredited Investor",
+            "High-net-worth Individuals"
+        ],
+        "investment_approach": "Capital Allocator",
+        "asset_under_management_value": null,
+        "check_size_typical": null,
+        "notable_investments": "Dean Equity Income Fund (DAEIX)",
+        "investment_highlights": "C.H. Dean, LLC offers strategic business solutions such as company-sponsored retirement plans, outsourced CFO services, and Business Advisory Services to help businesses attract talent, streamline staffing needs, and achieve their business goals.\n\nDean Capital Management, LLC (\"DCM\") was formally created in March 2008 as the investment management affiliate of C.H. Dean. DCM provides investment management services for Dean's mutual fund shareholders as well as their SMA clients.\n\nDean Investment Associates, LLC (\"DIA\") serves as the investment advisor to the funds and is a registered investment adviser and wealth management arm of C.H. Dean, LLC.",
+        "name": "C.H. Dean, LLC",
+        "website_url": "http://www.chdean.com"
+    },
+    {
+        "firm_type": [
+            "Investment Bank",
+            "Asset Management",
+            "Wealth Management"
+        ],
+        "strategic_sectors": [
+            "Technology",
+            "Financial Services"
+        ],
+        "investment_stages": [],
+        "investment_strategies": [
+            "M&A",
+            "Private Placement",
+            "Growth Equity"
+        ],
+        "geographic_preferences": [
+            "United States",
+            "North America"
+        ],
+        "investor_type": "Institutional Investor",
+        "investment_approach": "Capital Allocator",
+        "asset_under_management_value": "$19.2 trillion (as of November 14, 2023)",
+        "check_size_typical": null,
+        "notable_investments": "Diversified portfolio across 13 sectors with a focus on Technology (13.9% of total portfolio value)",
+        "investment_highlights": "Expanded capital markets capabilities with M&A and private placement advisory services, strong presence in major metropolitan areas, successful deposit strategy resulting in customer balance growth, recognized for responsible corporate practices and strong financial performance",
+        "name": "Comerica Bank",
+        "website_url": "http://www.comerica.com"
+    },
+    {
+        "firm_type": [
+            "Family Office",
+            "Wealth Management",
+            "Investment Advisory",
+            "Real Estate Investment Trust"
+        ],
+        "strategic_sectors": [
+            "Financial Services",
+            "Real Estate"
+        ],
+        "investment_stages": [
+            "Growth Stage"
+        ],
+        "investment_strategies": [
+            "Fixed Income",
+            "Commercial Real Estate",
+            "Investment Grade Private Credit",
+            "Private Equity",
+            "Collateralized Loan Obligations (CLOs)",
+            "Investment Grade",
+            "High Yield",
+            "Floating Rate",
+            "Commercial Mortgage Loans",
+            "Commercial Mortgage Backed Securities",
+            "Real Estate Investment Trusts",
+            "Primary Fund",
+            "Co-Investment",
+            "Middle-Market Buyout",
+            "Management Buyouts",
+            "Recapitalizations",
+            "Growth Equity"
+        ],
+        "geographic_preferences": [
+            "Domestic",
+            "North America",
+            "United States"
+        ],
+        "investor_type": "Family Office",
+        "investment_approach": "Direct Investor",
+        "asset_under_management_value": "$771.45 million",
+        "check_size_typical": "$1.1 million",
+        "notable_investments": "Goldman Sachs ETF Tr and Apple Inc, iShares Russell 1000 Growth ETF",
+        "investment_highlights": "GFG Capital, LLC manages more than $536 billion and has investments in 98 companies. As of September 30, 2023, the firm has a total of $325.35 million in holdings, with just 32 companies or ETFs making up 80% of its portfolio.",
+        "name": "GFG Capital, LLC",
+        "website_url": "http://www.gfgcapital.com"
+    },
+    {
+        "firm_type": [
+            "Investment Advisory",
+            "Accounting"
+        ],
+        "strategic_sectors": [],
+        "investment_stages": [],
+        "investment_strategies": [],
+        "geographic_preferences": [
+            "Domestic"
+        ],
+        "investor_type": [],
+        "investment_approach": [],
+        "asset_under_management_value": null,
+        "check_size_typical": null,
+        "notable_investments": null,
+        "investment_highlights": null,
+        "name": "Graf Repetti & Co., LLP",
+        "website_url": "http://www.grafrepetti.com"
+    },
+    {
+        "firm_type": [
+            "Family Office",
+            "Investment Advisory"
+        ],
+        "strategic_sectors": [
+            "Financial Services"
+        ],
+        "investment_stages": [],
+        "investment_strategies": [
+            "Middle-Market Buyout",
+            "Management Buyouts",
+            "Recapitalizations",
+            "Growth Equity"
+        ],
+        "geographic_preferences": [
+            "Domestic",
+            "United States"
+        ],
+        "investor_type": "Family Office",
+        "investment_approach": "Direct Investor",
+        "asset_under_management_value": "$6 trillion or more (as of March 8, 2024)",
+        "check_size_typical": null,
+        "notable_investments": "Oversees over USD 4.8 billion of institutional mandates dedicated to timberland investment programs worldwide.",
+        "investment_highlights": "Specific investment highlights are not available, but the firm focuses on intergenerational wealth transfer and adapting strategies to align with regional priorities and economic conditions.",
+        "name": "IWC Family Offices",
+        "website_url": "http://www.integratedwealth.com"
+    },
+    {
+        "firm_type": [
+            "Foundation"
+        ],
+        "strategic_sectors": [
+            "Arts and Crafts",
+            "Healthcare",
+            "Environmental Services",
+            "Education",
+            "Agriculture"
+        ],
+        "investment_stages": [],
+        "investment_strategies": [],
+        "geographic_preferences": [
+            "Domestic"
+        ],
+        "investor_type": "Institutional Investor",
+        "investment_approach": "Capital Allocator",
+        "asset_under_management_value": null,
+        "check_size_typical": "$250,000",
+        "notable_investments": null,
+        "investment_highlights": "The Heinz Family Philanthropies recently made a significant investment of up to $10 million to leverage Inflation Reduction Act funds for the region, as announced on February 7, 2024. Additionally, the Kraft Heinz Company Foundation committed $15 million over three years to Rise Against Hunger, with efforts including delivering meals in South Africa in 2023 and the Philippines in 2024.",
+        "name": "Heinz Family Philanthropies",
+        "website_url": "http://www.heinzfamily.org"
+    },
+    {
+        "firm_type": [
+            "Investment Advisory",
+            "Wealth Management"
+        ],
+        "strategic_sectors": [
+            "Financial Services"
+        ],
+        "investment_stages": [
+            "Growth Stage",
+            "Late Stage"
+        ],
+        "investment_strategies": [
+            "Fixed Income"
+        ],
+        "geographic_preferences": [
+            "Domestic",
+            "United States"
+        ],
+        "investor_type": "Accredited Investor",
+        "investment_approach": "Direct Investor",
+        "asset_under_management_value": "$2.2 Billion",
+        "check_size_typical": null,
+        "notable_investments": "QYuns",
+        "investment_highlights": "Kinsight, LLC is a Birmingham-based investment company that specializes in financial planning, portfolio design, management, and strategic wealth services. Established in 1986, the firm offers services such as philanthropy, career coaching, and family wealth consulting.",
+        "name": "Kinsight, LLC",
+        "website_url": "http://www.kinsight.com"
+    },
+    {
+        "firm_type": [
+            "Foundation"
+        ],
+        "strategic_sectors": [
+            "Education",
+            "Social Media Platforms"
+        ],
+        "investment_stages": [
+            "Grant"
+        ],
+        "investment_strategies": [],
+        "geographic_preferences": [
+            "Global"
+        ],
+        "investor_type": [],
+        "investment_approach": [
+            "Capital Allocator"
+        ],
+        "asset_under_management_value": "$10,567,390",
+        "check_size_typical": "$2,065",
+        "notable_investments": "Global Solvers Accelerator, Global Citizenship Learning Program",
+        "investment_highlights": "30 years of shaping young minds through experiential learning, skill development, and intercultural exposure, built a network of 500+ Fellows who are involved in impactful projects worldwide",
+        "name": "The Melton Foundation",
+        "website_url": "http://www.meltonfoundation.org"
+    },
+    {
+        "firm_type": [
+            "Asset Management",
+            "Investment Advisory"
+        ],
+        "strategic_sectors": [
+            "Hospitality",
+            "Real Estate"
+        ],
+        "investment_stages": [],
+        "investment_strategies": [
+            "Fixed Income",
+            "Commercial Real Estate"
+        ],
+        "geographic_preferences": [
+            "Domestic",
+            "North America"
+        ],
+        "investor_type": "Institutional Investor",
+        "investment_approach": "Direct Investor",
+        "asset_under_management_value": "$560,756,821",
+        "check_size_typical": null,
+        "notable_investments": "- Cambria Hotel Chicago Loop - Theatre District (IL)\n- Courtyard by Marriott Charlotte Gastonia (NC)\n- Courtyard by Marriott Shippensburg (PA)\n- DoubleTree by Hilton Hotel Atlanta North Druid Hills - Emory Area (GA)\n- DoubleTree Suites by Hilton Hotel Detroit Downtown - Fort Shelby (MI)\n- Fairfield Inn & Suites by Marriott Orlando Lake",
+        "investment_highlights": "Murphy Asset Management LLC experienced significant growth in 2022, adding 10 new hotels with 2,459 guest rooms to their portfolio. This expansion marked a notable achievement for the Chicago-based firm since its launch in 2013. Despite challenges like high interest rates and deal flow headwinds, the firm continued to enhance relationships with clients and increase its assets under management.",
+        "name": "Murphy Asset Management LLC",
+        "website_url": "http://www.murphyllc.com"
+    },
+    {
+        "firm_type": [
+            "Wealth Management",
+            "Investment Advisory",
+            "Family Office",
+            "Trust Services"
+        ],
+        "strategic_sectors": [
+            "Financial Services"
+        ],
+        "investment_stages": [],
+        "investment_strategies": [
+            "Fixed Income",
+            "Private Equity"
+        ],
+        "geographic_preferences": [
+            "Domestic",
+            "North America",
+            "United States"
+        ],
+        "investor_type": "Institutional Investor",
+        "investment_approach": "Capital Allocator",
+        "asset_under_management_value": "$1.5 billion",
+        "check_size_typical": null,
+        "notable_investments": "Apple Inc, Ishares Russell 1000 Gr ETF, Ishares Russell 1000 Val ETF, IWF, IWD, VONV, and VONG",
+        "investment_highlights": "Parkside Financial Bank & Trust has been recognized as a finalist for the 2024 Corporate Philanthropy Awards in the Midsize category, showcasing their commitment to philanthropic efforts within the community.",
+        "name": "Parkside Financial Bank & Trust",
+        "website_url": "http://www.pfbt.com"
+    },
+    {
+        "firm_type": [
+            "Investment Advisory",
+            "Wealth Management"
+        ],
+        "strategic_sectors": [
+            "Financial Services"
+        ],
+        "investment_stages": [],
+        "investment_strategies": [
+            "Fixed Income",
+            "Private Equity"
+        ],
+        "geographic_preferences": [
+            "Domestic",
+            "United States"
+        ],
+        "investor_type": "Retail Investor",
+        "investment_approach": "Direct Investor",
+        "asset_under_management_value": "$213.79 million",
+        "check_size_typical": null,
+        "notable_investments": "Ishares Tr and Apple Inc",
+        "investment_highlights": "Pinnacle Family Advisors closed its position in Ishares Tr on 14th August 2023, selling 99,118 shares for $6.55 billion. Additionally, Paul Carroll decreased the firm's stake in Apple Inc by approximately 0.1%, leaving the investment value at $21.9 billion with 112,887 shares.",
+        "name": "Pinnacle Family Advisors",
+        "website_url": "http://www.pinnaclefamilyadvisors.com"
+    },
+    {
+        "firm_type": [
+            "Wealth Management",
+            "Investment Advisory",
+            "Family Office"
+        ],
+        "strategic_sectors": [
+            "Financial Services"
+        ],
+        "investment_stages": [
+            "Growth Stage",
+            "Late Stage"
+        ],
+        "investment_strategies": [
+            "Fixed Income",
+            "Private Equity"
+        ],
+        "geographic_preferences": [
+            "Domestic",
+            "United States"
+        ],
+        "investor_type": [
+            "Accredited Investor",
+            "High Net Worth Individual"
+        ],
+        "investment_approach": [
+            "Direct Investor"
+        ],
+        "asset_under_management_value": "$4.7 billion",
+        "check_size_typical": null,
+        "notable_investments": null,
+        "investment_highlights": "CI Financial Corp. has acquired a majority interest in RGT Wealth Advisors, increasing CI Financial's assets under management (AUM) to $21 billion.",
+        "name": "RGT Capital Management, Ltd.",
+        "website_url": "http://www.rgtnet.com"
+    },
+    {
+        "firm_type": [
+            "Family Office",
+            "Wealth Management"
+        ],
+        "strategic_sectors": [],
+        "investment_stages": [],
+        "investment_strategies": [],
+        "geographic_preferences": [],
+        "investor_type": "Family Office",
+        "investment_approach": "Direct Investor",
+        "asset_under_management_value": null,
+        "check_size_typical": null,
+        "notable_investments": null,
+        "investment_highlights": null,
+        "name": "Providence Family Offices",
+        "website_url": "http://www.providencefamilyoffices.com"
+    },
+    {
+        "firm_type": [
+            "Family Office",
+            "Foundation"
+        ],
+        "strategic_sectors": [
+            "Fashion",
+            "Social Impact",
+            "Environmental Services"
+        ],
+        "investment_stages": [],
+        "investment_strategies": [
+            "Grant",
+            "Social Impact Investing"
+        ],
+        "geographic_preferences": [
+            "Global",
+            "United States"
+        ],
+        "investor_type": "Institutional Investor",
+        "investment_approach": "Direct Investor",
+        "asset_under_management_value": null,
+        "check_size_typical": null,
+        "notable_investments": "Dream It Real program, She Care Wellness Pods, Vital Voices leadership program",
+        "investment_highlights": "Achieved 2025 goal of donating $75 million in financial and product donations, completed 82,500 hours of volunteering globally, supported 980 charities and nonprofits around the world.",
+        "name": "Tapestry Family Office and Philanthropy",
+        "website_url": "http://tapestryfop.com/foandpf.html"
+    },
+    {
+        "firm_type": [
+            "Wealth Management",
+            "Investment Advisory"
+        ],
+        "strategic_sectors": [
+            "Financial Services"
+        ],
+        "investment_stages": [],
+        "investment_strategies": [
+            "ESG"
+        ],
+        "geographic_preferences": [
+            "United States"
+        ],
+        "investor_type": "Accredited Investor",
+        "investment_approach": "Direct Investor",
+        "asset_under_management_value": "$3.4 billion",
+        "check_size_typical": null,
+        "notable_investments": null,
+        "investment_highlights": "Growth through acquiring smaller advisory firms under $500 million in AUM in markets like Philadelphia, Florida, and California.",
+        "name": "Wescott Financial Advisory Group, LLC",
+        "website_url": "http://www.wescott.com"
+    },
+    {
+        "firm_type": [
+            "Investment Advisory",
+            "Asset Management"
+        ],
+        "strategic_sectors": [
+            "Financial Services",
+            "Healthcare",
+            "Manufacturing",
+            "Technology",
+            "Retail"
+        ],
+        "investment_stages": [],
+        "investment_strategies": [],
+        "geographic_preferences": [
+            "Domestic",
+            "United States"
+        ],
+        "investor_type": "Institutional Investor",
+        "investment_approach": "Capital Allocator",
+        "asset_under_management_value": null,
+        "check_size_typical": null,
+        "notable_investments": null,
+        "investment_highlights": "Launched a new 5-year strategic plan in 2023 and introduced innovative service offerings like DenSecure\u2122 and Outsourced Accounting Solutions in 2022.",
+        "name": "Wolf & Company, P.C.",
+        "website_url": "http://www.wolfandco.com"
+    },
+    {
+        "firm_type": [
+            "Investment Advisory"
+        ],
+        "strategic_sectors": [
+            "Healthcare",
+            "Education",
+            "Energy",
+            "Financial Services",
+            "Technology, Media, and Telecommunications",
+            "Consumer Goods",
+            "Industrial Goods",
+            "Public Sector",
+            "Retail",
+            "Transportation and Logistics",
+            "Travel and Tourism"
+        ],
+        "investment_stages": [],
+        "investment_strategies": [],
+        "geographic_preferences": [
+            "Global"
+        ],
+        "investor_type": [],
+        "investment_approach": [],
+        "asset_under_management_value": null,
+        "check_size_typical": null,
+        "notable_investments": null,
+        "investment_highlights": "Driving positive action and impact in various sectors like health, education, climate, and humanitarian causes. Focus on building diverse and inclusive teams to advance businesses and society.",
+        "name": "Boston Group Ltd",
+        "website_url": "http://www.boston.co.im"
+    },
+    {
+        "firm_type": [
+            "Private Equity",
+            "Venture Capital"
+        ],
+        "strategic_sectors": [
+            "Food and Beverage",
+            "Consumer Goods",
+            "Retail",
+            "Restaurants",
+            "Media and Entertainment",
+            "Energy",
+            "Healthcare",
+            "Consumer Services",
+            "Commercial Services",
+            "Technology",
+            "Industrial"
+        ],
+        "investment_stages": [
+            "Early Stage",
+            "Series A",
+            "Series B",
+            "Growth Stage"
+        ],
+        "investment_strategies": [
+            "Growth Capital",
+            "Recapitalization"
+        ],
+        "geographic_preferences": [
+            "United States",
+            "West US",
+            "California",
+            "Mid Atlantic",
+            "Northeast"
+        ],
+        "investor_type": "Private Equity",
+        "investment_approach": "Direct Investor",
+        "asset_under_management_value": "$85M",
+        "check_size_typical": "$4 to $6 million",
+        "notable_investments": "Stone Canyon Venture Partners, L.P., Emida, Freshly Baked, Red Mango",
+        "investment_highlights": "3 investments in early-stage Small and Medium Enterprises, most recent investment in Emida on September 13, 2006, raising $7.5 million, focus on financing early stage Small and Medium Enterprises in Los Angeles, history of investing in small and medium-sized businesses in sectors such as consumer products, retailing, restaurant, media and entertainment, energy, and medical industries.",
+        "name": "Stone Canyon Venture Partners",
+        "website_url": "http://www.stonecanyonvp.com"
+    }
+]
